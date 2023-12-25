@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1>Hi, I'm Aditya!</h1>
 
-<!--
-**Aditya8545/Aditya8545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻Certifications:</h2>
 
-Here are some ideas to get you started:
+- AWS Certified Cloud Practitioner [https://www.credly.com/badges/d259981e-97e1-48a4-8a83-a5c1d3dae2db/public_url]
+- compTIA Security+ [https://www.credly.com/badges/d10a6fe5-678c-4fb7-a943-4b9646de0032/public_url]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://linkedin.com/in/adtkumar
+
